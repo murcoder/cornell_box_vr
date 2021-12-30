@@ -36,5 +36,16 @@ Used [this](https://github.com/ExtendRealityLtd/Tilia.Locomotors.AxisMove.Unity/
 [this tutorial](https://github.com/ExtendRealityLtd/Tilia.Locomotors.AxisMove.Unity/tree/master/Documentation/HowToGuides/AddingSlideMovementWithSnapRotation
 ) for slide rotation.
 
+## Step 5 - Added a PseudoBody and adjust configuration
+Implemented a pseudo body including a collider for the VR Player by following 
+[this tutorial](https://github.com/ExtendRealityLtd/Tilia.Trackers.PseudoBody.Unity/tree/master/Documentation/HowToGuides/AddingAPseudoBody) and 
+more detailed explanation [here](https://youtu.be/2mjhsP-esjA).
+
+## Step 6 - Added interactables
+Added some interactables which can be dragged and dropped again by following
+[this tutorial](https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/SettingTheOrientationOfAnInteractableWhenGrabbed) and 
+more detailed explanation [here](https://youtu.be/ZE-UdW9l2TM).
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
